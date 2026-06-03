@@ -1,0 +1,4 @@
+Python is installed
+Git is installed
+Repository Created
+Postman downloaded and installed
