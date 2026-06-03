@@ -1,0 +1,16 @@
+# Environment variables — never push this to GitHub
+.env
+ 
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+ 
+# Virtual environment folder
+venv/
+env/
+ 
+# OS files
+.DS_Store
+Thumbs.db
+ 
