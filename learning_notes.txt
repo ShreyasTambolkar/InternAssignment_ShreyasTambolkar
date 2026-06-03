@@ -1,4 +1,26 @@
-Python is installed
-Git is installed
+Python is already installed
+Git is already installed
 Repository Created
 Postman downloaded and installed
+
+Tools and Technologies Used:
+Python + Flask
+MySQL
+mysql-connector-python
+python-dotenv
+Postman
+
+Questions I Asked to Claude AI:
+1 .What is Postman and how do I install it?
+Postman is an API testing platform that lets developers send
+HTTP requests and inspect responses without writing frontend code. I learned 
+how to download it from the official website and use it to test GET,
+POST, PUT, and DELETE requests.
+
+2. Help me create a REST API for Employee Management with CRUD
+
+3. What are .env and .gitignore files and how to use them
+
+4. What is an Endpoint?
+An endpoint is a specific URL that the API listens to and responds to.
+Each endpoint performs one specific job.
